@@ -1,0 +1,9 @@
+﻿  Assembling mnist_learn.asm...
+\masm32\include\masm32rt.inc(32): error A2008: syntax error : .
+\masm32\include\masm32rt.inc(33): error A2008: syntax error : .
+\masm32\include\windows.inc(9750): error A2008: syntax error : dword
+\masm32\include\windows.inc(10183): error A2008: syntax error : frame
+\masm32\include\windows.inc(16333): error A2008: syntax error : dword
+\masm32\include\windows.inc(18862): error A2008: syntax error : Frame
+MASM : fatal error A1016: Internal error
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\BuildCustomizations\masm.targets(69,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\mnist_learn.obj" /W3 /errorReport:prompt  /Tamnist_learn.asm" exited with code 1.

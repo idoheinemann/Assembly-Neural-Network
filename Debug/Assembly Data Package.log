@@ -1,0 +1,5 @@
+﻿  Assembling mnist_learn.asm...
+\masm32\include\masm32rt.inc(33): warning A4011: multiple .MODEL directives found : .MODEL ignored
+\masm32\include\masm32rt.inc(33): warning A4011: multiple .MODEL directives found : .MODEL ignored
+\masm32\include\masm32rt.inc(33): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  Assembly Data Package.vcxproj -> C:\Users\HEINEMANN\source\repos\Assembly Data Package\Debug\Assembly Data Package.exe

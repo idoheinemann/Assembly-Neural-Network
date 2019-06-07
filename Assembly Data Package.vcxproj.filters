@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\extended">
+      <UniqueIdentifier>{93f3abf3-8aba-498b-b3aa-4cb766ea80d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\extended\ml">
+      <UniqueIdentifier>{51d29627-3dc1-44b6-b83a-0b23cd40ee84}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="string_functions.inc">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="data_structs.inc">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="math.inc">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="list_methods.inc">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="regex.inc">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="linear.inc">
+      <Filter>Resource Files\extended</Filter>
+    </None>
+    <None Include="gui.inc">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="learning_data.inc">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="learning_code.inc">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="printing.inc">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="gui_data.inc">
+      <Filter>Resource Files\extended</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="mnist_learn.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+  </ItemGroup>
+</Project>

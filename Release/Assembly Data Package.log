@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\users\heinemann\source\repos\assembly data package\release\assembly data package.exe' is denied.
+  Assembling mnist_learn.asm...
+\masm32\include\masm32rt.inc(33): warning A4011: multiple .MODEL directives found : .MODEL ignored
+\masm32\include\masm32rt.inc(33): warning A4011: multiple .MODEL directives found : .MODEL ignored
+\masm32\include\masm32rt.inc(33): warning A4011: multiple .MODEL directives found : .MODEL ignored
+LINK : fatal error LNK1104: cannot open file 'C:\Users\HEINEMANN\source\repos\Assembly Data Package\Release\Assembly Data Package.exe'
